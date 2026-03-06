@@ -2,7 +2,8 @@
 
 An advanced AI agent architecture that leverages the **ReAct (Reasoning + Acting)** pattern to perform real-time web searches and provide grounded, up-to-date answers. Built with **LangChain**, **Groq (LPU)**, and **FastAPI**.
 
-
+## 📸 Visual Showcase
+*Check out the system in action below. For more detailed views, please visit the [`/ss`](./ss) directory.*
 
 ## 🌟 Key Features
 
